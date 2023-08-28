@@ -6,7 +6,7 @@
 //int main()
 //{
 //    int sum;
-//    int num1 = 3, num2 = 9;
+//    int num1 = 3, num2 = 19;
 //    sum = num1 * num2;
 //    std::cout << sum << std::endl;
 //}
